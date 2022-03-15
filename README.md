@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josué Amaya</h1>
 <h3 align="center">I'm a Software Engineer and Android Developer. I love coding and doing awesome things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=c3rberuss&label=Profile%20views&color=0e75b6&style=flat" alt="c3rberuss" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c3rberuss" alt="c3rberuss" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=c3rberuss&label=Profile%20views&color=0e75b6&style=flat-square" alt="c3rberuss" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,8 +15,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/c3rberuss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/c3rberuss" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c3rberuss&show_icons=true&locale=en&layout=compact" alt="c3rberuss" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c3rberuss&show_icons=true&theme=dark&locale=en&layout=compact" alt="c3rberuss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c3rberuss&show_icons=true&locale=en" alt="c3rberuss" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c3rberuss&show_icons=true&theme=dark&locale=en" alt="c3rberuss" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c3rberuss&" alt="c3rberuss" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c3rberuss&theme=dark" alt="c3rberuss" /></p>
